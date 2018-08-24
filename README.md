@@ -9,6 +9,7 @@ python设计模式
 5. Singleton（单例）
 
 结构型
+
 6. Adapter Class/Object（适配器）
 7. Bridge（桥接）
 8. Composite（组合）
@@ -18,6 +19,7 @@ python设计模式
 12. Proxy（代理）
 
 行为型
+
 13. Interpreter（解释器）
 14. Template Method（模板方法）
 15. Chain of Responsibility（责任链）
