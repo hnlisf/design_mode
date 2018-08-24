@@ -7,6 +7,7 @@ python设计模式
 3. Builder（建造者）
 4. Prototype（原型）
 5. Singleton（单例）
+
 结构型
 6. Adapter Class/Object（适配器）
 7. Bridge（桥接）
@@ -15,6 +16,7 @@ python设计模式
 10. Facade（外观）
 11. Flyweight（享元）
 12. Proxy（代理）
+
 行为型
 13. Interpreter（解释器）
 14. Template Method（模板方法）
